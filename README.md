@@ -1,4 +1,6 @@
 # megathon_2023
+
+This project is an attempt to identify unhealthy paddy from healthy paddy crops.
 Repository for the files of Megathon-2023 in IIIT Hyderabad
 
 
